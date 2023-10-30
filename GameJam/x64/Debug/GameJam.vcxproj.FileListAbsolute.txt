@@ -1,0 +1,3 @@
+C:\Users\Jorge Torres\source\repos\GameJam\GameJam\x64\Debug\GameJam.vcxproj.AssemblyReference.cache
+C:\Users\Jorge Torres\source\repos\GameJam\GameJam\x64\Debug\GameJam.MyForm.resources
+C:\Users\Jorge Torres\source\repos\GameJam\GameJam\x64\Debug\GameJam.vcxproj.GenerateResource.cache

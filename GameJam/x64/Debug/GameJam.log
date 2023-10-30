@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\Jorge Torres\source\repos\GameJam\GameJam\Casita.h(51,13): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Jorge Torres\source\repos\GameJam\GameJam\Casita.h(52,16): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  GameJam.vcxproj -> C:\Users\Jorge Torres\source\repos\GameJam\x64\Debug\GameJam.exe
